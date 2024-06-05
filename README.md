@@ -1,13 +1,13 @@
 
-![Banner Nahuel](github-header-image.png)
+![Banner Nahuel](github-header-image(1).png)
 
 -----------------------
 
-<h3 align="center">A passionate Java Back-End Developer from Argentina</h3>
+<h3 align="center">A passionate Back-End Developer from Argentina</h3>
 
 - 🔭 I’m currently working on **PedidosYa**
 
-- 🌱 I’m currently learning **Java, SQL,Selenium**
+- 🌱 I’m currently learning ** C#, SQL, Selenium **
 
 - 👯 I’m looking to collaborate on **a variety of projects**
 
@@ -15,6 +15,7 @@
 
 ## Skills
 
+![C#]()
 ![MySQL](icono-mysql.svg)
 ![Angular](angular.svg)
 ![Spring](spring.svg)
@@ -26,6 +27,7 @@
 ![Wordpress](wordpress.svg)
 ![Bootstarp](bootstrap.svg)
 ![React](react.svg)
+
 
 
 
