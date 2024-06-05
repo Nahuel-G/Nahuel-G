@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **PedidosYa**
 
-- 🌱 I’m currently learning ** C#, SQL, Selenium **
+- 🌱 I’m currently learning ** C#, SQL, .Net **
 
 - 👯 I’m looking to collaborate on **a variety of projects**
 
@@ -21,12 +21,10 @@
 ![C#](iconoC#.svg)
 ![MySQL](icono-mysql.svg)
 ![Angular](angular.svg)
-![Spring](spring.svg)
 ![CSS3](css.svg)
 ![HTML5](html.svg)
 ![Java](java.svg)
 ![Jira](jira.svg)
-![Selenium](selenium.svg)
 ![Wordpress](wordpress.svg)
 ![Bootstarp](bootstrap.svg)
 ![React](react.svg)
