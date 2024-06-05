@@ -1,5 +1,5 @@
 
-![Banner Nahuel](github-header-image(1).png)
+![Banner Nahuel](BannerGithub.png)
 
 -----------------------
 
@@ -15,7 +15,7 @@
 
 ## Skills
 
-![C#]()
+![C#](iconoC#.png)
 ![MySQL](icono-mysql.svg)
 ![Angular](angular.svg)
 ![Spring](spring.svg)
