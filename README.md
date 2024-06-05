@@ -15,7 +15,10 @@
 
 ## Skills
 
-![C#](iconoC#.png)
+![Figma](iconoFigma.svg)
+![.Net](Icono.Net.svg)
+![Unity](iconoUnity.svg)
+![C#](iconoC#.svg)
 ![MySQL](icono-mysql.svg)
 ![Angular](angular.svg)
 ![Spring](spring.svg)
