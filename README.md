@@ -3,11 +3,11 @@
 
 -----------------------
 
-<h3 align="center">A passionate Back-End Developer from Argentina</h3>
+<h3 align="center">A passionate Android Developer from Argentina</h3>
 
-- 🔭 I’m currently working on **PedidosYa**
+- 🔭 I’m currently working on **Bimbo**
 
-- 🌱 I’m currently learning ** C#, SQL, .Net **
+- 🌱 I’m currently learning ** Android y Kotlin **
 
 - 👯 I’m looking to collaborate on **a variety of projects**
 
