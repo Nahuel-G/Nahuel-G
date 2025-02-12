@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nahuel</a></h1>
-<h3 align="center">A passionate about data from Argentina</h3>
+<h3 align="center">A passionate about Android from Argentina</h3>
 
 
 <a target="_blank" align="center">
@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working in **BIMBO**
 
-- 🌱 I’m currently learning **Data Analyst with: Excel, Power BI, Qlik Sense, SQL and Python **
+- 🌱 I’m currently learning **Android developer with: Kotlin, Firebase, Android Studio, Room and jetpack compose **
   
 - 🤝 I’m available for freelancing.
 
