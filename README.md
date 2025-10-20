@@ -9,8 +9,6 @@
 # 💫 About Me:
 🔭 I’m currently working in BIMBO<br>🌱 I’m currently learning Kotlin and Jetpack Compose<br>🤝 I’m available for freelancing.<br>👯 I’m looking to collaborate on a variety of projects<br>📫 How to reach me nahuel.a.gonzalez98@gmail.com
 
-
-<br><br>
 <br><br>
 <br><br>
 # 💻 Tech Stack:
